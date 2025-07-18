@@ -1,0 +1,1 @@
+# capcut-pro-2025-activate
