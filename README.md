@@ -1,7 +1,7 @@
 # 🎬 CapCut Pro Repository  
 Welcome to the CapCut Pro repository! 🚀 This is your ultimate source for accessing the powerful features of CapCut Pro, a leading software for video editing and creative storytelling. Whether you are a beginner or an experienced editor, CapCut Pro offers a variety of tools to enhance your projects.
 
-## 📁 Repository Overview  
+## 📁 Repository Overview   
 - Name: capcut-pro-2025-activate
 - Description: Tags: capcut pro, capcut pro free, capcut pro download, capcut download, capcut pro full version, capcut free, capcut pro guide, capcut install, capcut pro 2024, capcut pro licence, capcut pro key activation
 - Topics: capcut capcut-free capcut-download capcut-full-version capcut-2024 capcut-install capcut-guide capcut-licence capcut-2025 capcut-key-activation 
